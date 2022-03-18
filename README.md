@@ -1,6 +1,6 @@
 # Mars-surface-image-segmentation-dataset-for-Tianwen-1-Mission  
   
-The files in **make_dataset** can help you convert json files to label images and generate txt documents required for training  
+The files in **make_dataset** can help you convert json files to label images and generate .txt documents required for training  
   
 There are six subfolders **train, val, test, trainannot, valannot, testannot under the data folder**, and the corresponding original images and label images are placed for network training.  
   
