@@ -1,4 +1,4 @@
-# Mars-surface-image-segmentation-dataset-for-Tianwen-1-Mission  
+# Mars-surface-rock-segmentation-code-for-Tianwen-1-Mission  
   
 The files in **make_dataset** can help you convert json files to label images and generate .txt documents required for training  
   
